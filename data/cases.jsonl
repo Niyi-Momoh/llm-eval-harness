@@ -1,0 +1,66 @@
+{"id":"q01","split":"dev","category":"direct","question":"At what battery percentage must robots return to charge?","answers":["18 percent"],"docs":["d01"]}
+{"id":"q02","split":"test","category":"direct","question":"How long does a full charge take?","answers":["95 minutes"],"docs":["d01"]}
+{"id":"q03","split":"dev","category":"paraphrase","question":"After how many cycles should a power pack be swapped out?","answers":["1,200"],"docs":["d01"]}
+{"id":"q04","split":"test","category":"direct","question":"What is the speed limit in aisles?","answers":["0.8 metres"],"docs":["d02"]}
+{"id":"q05","split":"dev","category":"direct","question":"What is the maximum robot speed in open zones?","answers":["1.6 metres"],"docs":["d02"]}
+{"id":"q06","split":"test","category":"paraphrase","question":"How fast can machines travel where the ground could be frozen?","answers":["0.5 metres"],"docs":["d02"]}
+{"id":"q07","split":"test","category":"direct","question":"How quickly must a collision be reported?","answers":["15 minutes"],"docs":["d03"]}
+{"id":"q08","split":"dev","category":"direct","question":"Who is the safety lead?","answers":["Amara Okafor"],"docs":["d03"]}
+{"id":"q09","split":"test","category":"paraphrase","question":"How many years do we hold on to accident paperwork?","answers":["7 years"],"docs":["d03"]}
+{"id":"q10","split":"dev","category":"direct","question":"When does the night shift start?","answers":["18:00"],"docs":["d04"]}
+{"id":"q11","split":"test","category":"direct","question":"How long do handover meetings last?","answers":["20 minutes"],"docs":["d04"]}
+{"id":"q12","split":"dev","category":"paraphrase","question":"What is the ratio of team leaders to engineers on each shift?","answers":["12 technicians"],"docs":["d04"]}
+{"id":"q13","split":"test","category":"direct","question":"Where is hearing protection required?","answers":["compressor room"],"docs":["d05"]}
+{"id":"q14","split":"dev","category":"direct","question":"How long is a visitor's temporary badge valid?","answers":["8 hours"],"docs":["d05"]}
+{"id":"q15","split":"test","category":"paraphrase","question":"What footwear must people wear in the warehouse?","answers":["steel-toe boots"],"docs":["d05"]}
+{"id":"q16","split":"dev","category":"direct","question":"When is fleet software released?","answers":["second Tuesday"],"docs":["d06"]}
+{"id":"q17","split":"test","category":"direct","question":"What percentage of robots receive the canary?","answers":["5 percent"],"docs":["d06"]}
+{"id":"q18","split":"test","category":"paraphrase","question":"What failure level forces us to undo an update?","answers":["2 percent"],"docs":["d06"]}
+{"id":"q19","split":"dev","category":"direct","question":"How often are LiDAR sensors recalibrated?","answers":["90 days"],"docs":["d07"]}
+{"id":"q20","split":"test","category":"direct","question":"How often are wheels inspected?","answers":["500 operating hours"],"docs":["d07"]}
+{"id":"q21","split":"dev","category":"paraphrase","question":"Which platform holds upkeep records?","answers":["Atlas"],"docs":["d07"]}
+{"id":"q22","split":"test","category":"direct","question":"What is the maximum payload of the M3 robot?","answers":["140 kilograms"],"docs":["d08"]}
+{"id":"q23","split":"dev","category":"direct","question":"How much can the M5 robot carry?","answers":["320 kilograms"],"docs":["d08"]}
+{"id":"q24","split":"test","category":"paraphrase","question":"Above what weight do two staff need to approve a shipment?","answers":["300 kilograms"],"docs":["d08"]}
+{"id":"q25","split":"dev","category":"direct","question":"How many days do customers have to return goods?","answers":["28 days"],"docs":["d09"]}
+{"id":"q26","split":"test","category":"direct","question":"Where are damaged goods sent?","answers":["bay 14"],"docs":["d09"]}
+{"id":"q27","split":"test","category":"direct","question":"What temperature is the cold store kept at?","answers":["minus 18"],"docs":["d10"]}
+{"id":"q28","split":"dev","category":"paraphrase","question":"How long can someone stay in the freezer before resting?","answers":["45 minutes"],"docs":["d10"]}
+{"id":"q29","split":"test","category":"direct","question":"Where is the fire assembly point?","answers":["car park B"],"docs":["d11"]}
+{"id":"q30","split":"dev","category":"direct","question":"How often do fire drills take place?","answers":["6 months"],"docs":["d11"]}
+{"id":"q31","split":"test","category":"direct","question":"What is the name of the private 5G network?","answers":["depot-core"],"docs":["d12"]}
+{"id":"q32","split":"dev","category":"paraphrase","question":"How long a connectivity outage makes a machine pause?","answers":["10 seconds"],"docs":["d12"]}
+{"id":"q33","split":"test","category":"direct","question":"How long is camera footage kept?","answers":["30 days"],"docs":["d13"]}
+{"id":"q34","split":"dev","category":"direct","question":"Who is the data protection officer?","answers":["Lena Fischer"],"docs":["d13"]}
+{"id":"q35","split":"test","category":"direct","question":"How long is telemetry retained?","answers":["13 months"],"docs":["d13"]}
+{"id":"q36","split":"dev","category":"direct","question":"How long is the induction for new technicians?","answers":["3-week"],"docs":["d14"]}
+{"id":"q37","split":"test","category":"paraphrase","question":"How frequently does a lift truck licence have to be refreshed?","answers":["3 years"],"docs":["d14"]}
+{"id":"q38","split":"dev","category":"direct","question":"What is the hotel cost cap in London?","answers":["140 pounds"],"docs":["d15"]}
+{"id":"q39","split":"test","category":"direct","question":"What is the daily meal allowance?","answers":["25 pounds"],"docs":["d15"]}
+{"id":"q40","split":"dev","category":"direct","question":"How many days of annual leave do employees receive?","answers":["27 days"],"docs":["d16"]}
+{"id":"q41","split":"test","category":"paraphrase","question":"How much unused holiday can be rolled into next year?","answers":["5 days"],"docs":["d16"]}
+{"id":"q42","split":"dev","category":"direct","question":"What share of locations do cycle counts cover daily?","answers":["2 percent"],"docs":["d17"]}
+{"id":"q43","split":"test","category":"direct","question":"Which dock doors are for inbound lorries?","answers":["1 to 6"],"docs":["d18"]}
+{"id":"q44","split":"dev","category":"paraphrase","question":"How much notice must hauliers give to reserve a delivery time?","answers":["24 hours"],"docs":["d18"]}
+{"id":"q45","split":"test","category":"direct","question":"How far apart are emergency stop buttons mounted?","answers":["25 metres"],"docs":["d19"]}
+{"id":"q46","split":"dev","category":"direct","question":"What does a restart after an emergency stop require?","answers":["technician's key"],"docs":["d19"]}
+{"id":"q47","split":"test","category":"direct","question":"Who is the LiDAR supplier?","answers":["Ardent Optics"],"docs":["d20"]}
+{"id":"q48","split":"dev","category":"paraphrase","question":"Which company makes our wheel units?","answers":["Kestrel Drives"],"docs":["d20"]}
+{"id":"u01","split":"dev","category":"unanswerable","question":"What is the maximum payload of the M7 robot?","answerable":false}
+{"id":"u02","split":"test","category":"unanswerable","question":"What is the hotel cost cap in Paris during conferences?","answerable":false}
+{"id":"u03","split":"dev","category":"unanswerable","question":"Who is the chief executive of the company?","answerable":false}
+{"id":"u04","split":"test","category":"unanswerable","question":"What is the staff canteen menu on Fridays?","answerable":false}
+{"id":"u05","split":"dev","category":"unanswerable","question":"How many solar panels are installed on the roof?","answerable":false}
+{"id":"u06","split":"test","category":"unanswerable","question":"What pension contribution does the employer make?","answerable":false}
+{"id":"u07","split":"dev","category":"unanswerable","question":"Which bank processes supplier payments?","answerable":false}
+{"id":"u08","split":"test","category":"unanswerable","question":"When was the warehouse originally built?","answerable":false}
+{"id":"u09","split":"dev","category":"unanswerable","question":"What is the car parking fee for contractors?","answerable":false}
+{"id":"u10","split":"test","category":"unanswerable","question":"How many drones patrol the perimeter at night?","answerable":false}
+{"id":"u11","split":"dev","category":"unanswerable","question":"What is the maternity pay policy?","answerable":false}
+{"id":"u12","split":"test","category":"unanswerable","question":"Which charity does the company sponsor?","answerable":false}
+{"id":"t01","split":"dev","category":"tool","question":"What is 140 multiplied by 3?","answers":["420"],"tools":["calculator"]}
+{"id":"t02","split":"test","category":"tool","question":"What is 320 plus 95?","answers":["415"],"tools":["calculator"]}
+{"id":"t03","split":"dev","category":"tool","question":"What is 1200 divided by 8?","answers":["150"],"tools":["calculator"]}
+{"id":"t04","split":"test","category":"tool","question":"What is 500 minus 45?","answers":["455"],"tools":["calculator"]}
+{"id":"t05","split":"dev","category":"tool","question":"What is 27 times 12?","answers":["324"],"tools":["calculator"]}
+{"id":"t06","split":"test","category":"tool","question":"What is 90 divided by 6?","answers":["15"],"tools":["calculator"]}
